@@ -1,7 +1,7 @@
 # Hoffman-Text-Encoder-Decoder
 
-Text Compression using Hoffmann Encoding Algorithm.
+Text Compressor using Hoffmann Encoding Algorithm, and its Decoder.
 
-# Build
+## Build
 
 
